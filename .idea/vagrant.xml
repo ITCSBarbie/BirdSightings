@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VagrantProjectSettings">
+    <option name="envs">
+      <map>
+        <entry key="MONGO_URL" value="" />
+        <entry key="set MONGO_URL" value="mongodb://dbUser@ITCSBarbie@127.0.01:27017/todo" />
+      </map>
+    </option>
+    <option name="instanceFolder" value="" />
+    <option name="provider" value="" />
+  </component>
+</project>
