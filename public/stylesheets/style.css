@@ -1,6 +1,7 @@
 body {
     padding: 50px;
     font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+<<<<<<< HEAD
 
     background-color: black;
 
@@ -9,11 +10,16 @@ body {
     background-size: cover;        /* fill the page */
     background-attachment: fixed;  /* don't scroll */
 
+=======
+>>>>>>> origin/master
 }
 
 a {
     color: #00B7FF;
 }
+<<<<<<< HEAD
 img.about {
     max-width : 100%;
 }
+=======
+>>>>>>> origin/master

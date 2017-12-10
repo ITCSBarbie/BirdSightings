@@ -5,7 +5,11 @@
  */
 
 var app = require('../app');
+<<<<<<< HEAD
 var debug = require('debug')('bird:server');
+=======
+var debug = require('debug')('bird-hbs:server');
+>>>>>>> origin/master
 var http = require('http');
 
 /**
