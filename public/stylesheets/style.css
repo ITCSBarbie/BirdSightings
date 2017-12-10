@@ -1,0 +1,19 @@
+body {
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+
+    background-color: black;
+
+    background-image: url('/images/tweety_minimalistic_wallpaper_no_logo_by_komankk-d730ru2.png');
+    background-repeat: no-repeat;
+    background-size: cover;        /* fill the page */
+    background-attachment: fixed;  /* don't scroll */
+
+}
+
+a {
+    color: #00B7FF;
+}
+img.about {
+    max-width : 100%;
+}
